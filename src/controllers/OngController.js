@@ -2,7 +2,6 @@ const crypto = require('crypto');
 const connection = require('../database/connection');
 
 
-
 module.exports = {
 
     /** Busca os dados no banco  */
